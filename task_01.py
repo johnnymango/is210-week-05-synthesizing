@@ -8,6 +8,7 @@ import datetime
 
 CURDATE = None
 
+
 def get_current_date():
     """This functions gets the current date..
 
